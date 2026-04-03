@@ -1,0 +1,434 @@
+{
+  "source": {
+    "websiteUrl": "https://www.theveteran.in/",
+    "capturedOn": "2026-04-03",
+    "notes": "Public content mirrored from the live public website homepage, public free-test page, and linked public login entry."
+  },
+  "branding": {
+    "appName": "VETERAN",
+    "teacherName": "Yashraj Singh Chauhan",
+    "teacherTitle": "Quantitative Aptitude & Reasoning Mentor",
+    "tagline": "Begin your bank exam journey with curated courses, smart strategy, and a results-driven community.",
+    "logoUrl": "https://cdn-diy-public.classplus.co/prod/logo_1768823562569.png",
+    "teacherPhotoUrl": "https://cdn-diy-public.classplus.co/prod/WeAreNow700x568px_1768823714540.png",
+    "websiteUrl": "https://www.theveteran.in/",
+    "loginUrl": "https://web.theveteran.in/",
+    "coursesUrl": "https://www.theveteran.in/courses",
+    "freeTestsUrl": "https://www.theveteran.in/freetest",
+    "appDownloadUrl": "https://play.google.com/"
+  },
+  "hero": {
+    "eyebrow": "Begin Your Bank Exam Journey",
+    "title": "With Our Curated Courses",
+    "description": "A sharper, more premium web experience for Veteran that keeps the current public messaging while upgrading the visual language, motion, layout, and browsing flow.",
+    "primaryCtaLabel": "Explore Courses",
+    "secondaryCtaLabel": "Student Login"
+  },
+  "highlightedCourses": [
+    {
+      "id": "hc1",
+      "label": "Books",
+      "title": "Shipment address courses",
+      "price": 3150,
+      "originalPrice": 3490,
+      "discountText": "9.00% OFF",
+      "buyUrl": "https://defzhu.tw-preprod.classplusapp.com",
+      "thumbnail": "BK",
+      "accent": "#f97316"
+    },
+    {
+      "id": "hc2",
+      "label": "Course",
+      "title": "New course ID for NIshant",
+      "price": 8,
+      "buyUrl": "https://defzhu.tw-preprod.classplusapp.com",
+      "thumbnail": "NC",
+      "accent": "#14b8a6"
+    },
+    {
+      "id": "hc3",
+      "label": "Course",
+      "title": "NEW MID 2: Purchase after Latest deployment",
+      "price": 2,
+      "buyUrl": "https://defzhu.tw-preprod.classplusapp.com",
+      "thumbnail": "MD",
+      "accent": "#3b82f6"
+    },
+    {
+      "id": "hc4",
+      "label": "Course",
+      "title": "MVA videoSDk Rohit",
+      "price": 2,
+      "buyUrl": "https://defzhu.tw-preprod.classplusapp.com",
+      "thumbnail": "MV",
+      "accent": "#8b5cf6"
+    },
+    {
+      "id": "hc5",
+      "label": "Course",
+      "title": "multimedia course by rohit sharma",
+      "price": 2,
+      "buyUrl": "https://defzhu.tw-preprod.classplusapp.com",
+      "thumbnail": "MM",
+      "accent": "#ef4444"
+    },
+    {
+      "id": "hc6",
+      "label": "Course",
+      "title": "Stocks testing Diy",
+      "price": 2,
+      "buyUrl": "https://defzhu.tw-preprod.classplusapp.com",
+      "thumbnail": "ST",
+      "accent": "#0f766e"
+    }
+  ],
+  "catalogCourses": [
+    {
+      "id": "c1",
+      "title": "RRB CLERK MAINS COURSE 2025",
+      "category": "Banking Exams",
+      "level": "Intermediate",
+      "instructor": "Yashraj Singh Chauhan",
+      "rating": 4.9,
+      "students": 52410,
+      "totalDurationHours": 320,
+      "price": 1000,
+      "originalPrice": 1600,
+      "thumbnail": "RC",
+      "thumbnailUrl": "https://storage.googleapis.com/cp-lower-whitelabel-assets-as-sth1-gcs/preprod/single/defzhu/d901ee0f-bee1-4fd3-bba6-a4a5b6ded76a.png",
+      "description": "Mains-focused batch with Quant, Reasoning, live practice, PDFs, and revision drills for RRB Clerk aspirants.",
+      "tags": ["RRB Clerk", "Quant", "Reasoning", "Practice"],
+      "badgeLabels": ["NEW", "LIVE CLASS", "FREE CONTENT"],
+      "couponEnabled": true,
+      "modules": [
+        {
+          "id": "m1",
+          "title": "Quant Foundation + Speed Building",
+          "lessons": [
+            {
+              "id": "l1",
+              "title": "Number System + Calculation Tricks",
+              "durationMinutes": 70,
+              "type": "video",
+              "completed": true
+            },
+            {
+              "id": "l2",
+              "title": "Percentage, SI/CI, Profit Loss",
+              "durationMinutes": 85,
+              "type": "video",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "title": "Reasoning Mastery + Live Practice",
+          "lessons": [
+            {
+              "id": "l3",
+              "title": "Puzzle + Seating + Syllogism",
+              "durationMinutes": 95,
+              "type": "video",
+              "completed": false
+            },
+            {
+              "id": "l4",
+              "title": "Weekly Live Mock + Analysis",
+              "durationMinutes": 90,
+              "type": "live-replay",
+              "completed": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Hindi Bhasha Practice Batch for IBPS RRB PO & CLERK 2025-26",
+      "category": "Banking Exams",
+      "level": "Beginner",
+      "instructor": "Yashraj Singh Chauhan",
+      "rating": 4.9,
+      "students": 44780,
+      "totalDurationHours": 120,
+      "price": 400,
+      "originalPrice": 600,
+      "thumbnail": "HB",
+      "thumbnailUrl": "https://storage.googleapis.com/cp-lower-whitelabel-assets-as-sth1-gcs/preprod/single/defzhu/2e6808b4-3582-498d-a6d8-4741d245b7a8.jpeg",
+      "description": "Targeted Hindi medium practice batch with topic-wise files, sectional drills, and language support for RRB exams.",
+      "tags": ["Hindi", "Files", "RRB PO", "RRB Clerk"],
+      "badgeLabels": ["NEW", "FILES"],
+      "modules": [
+        {
+          "id": "m3",
+          "title": "Prelims Accelerator",
+          "lessons": [
+            {
+              "id": "l5",
+              "title": "Speed Maths for Prelims",
+              "durationMinutes": 60,
+              "type": "video",
+              "completed": true
+            },
+            {
+              "id": "l6",
+              "title": "High-Accuracy Reasoning Drills",
+              "durationMinutes": 80,
+              "type": "video",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "id": "m4",
+          "title": "Mains + Descriptive + Interview",
+          "lessons": [
+            {
+              "id": "l7",
+              "title": "Full-Length Mains Simulation",
+              "durationMinutes": 120,
+              "type": "quiz",
+              "completed": false
+            },
+            {
+              "id": "l8",
+              "title": "Descriptive Writing + Interview Mentorship",
+              "durationMinutes": 75,
+              "type": "assignment",
+              "completed": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "title": "RBI ASSISTANT TARGET BATCH",
+      "category": "Insurance Exams",
+      "level": "Intermediate",
+      "instructor": "Yashraj Singh Chauhan",
+      "rating": 4.8,
+      "students": 29120,
+      "totalDurationHours": 180,
+      "price": 800,
+      "originalPrice": 1000,
+      "thumbnail": "RBI",
+      "thumbnailUrl": "https://storage.googleapis.com/cp-lower-whitelabel-assets-as-sth1-gcs/preprod/single/defzhu/52cd7322-42ad-4ce6-beda-494fac7fcc94.jpeg",
+      "description": "Target batch with high-frequency live classes, recorded videos, and speed-building exercises for RBI Assistant.",
+      "tags": ["RBI Assistant", "Reasoning", "Quant", "Videos"],
+      "badgeLabels": ["NEW", "LIVE CLASS", "VIDEOS"],
+      "modules": [
+        {
+          "id": "m5",
+          "title": "Insurance Pattern Foundation",
+          "lessons": [
+            {
+              "id": "l9",
+              "title": "Arithmetic Essentials",
+              "durationMinutes": 65,
+              "type": "video",
+              "completed": false
+            },
+            {
+              "id": "l10",
+              "title": "Reasoning Sets for Insurance Mains",
+              "durationMinutes": 70,
+              "type": "video",
+              "completed": false
+            }
+          ]
+        },
+        {
+          "id": "m6",
+          "title": "Mentored Revision + PDF Practice",
+          "lessons": [
+            {
+              "id": "l11",
+              "title": "Weekly Live Quiz + Detailed Solution",
+              "durationMinutes": 90,
+              "type": "live-replay",
+              "completed": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "title": "Quant Champ",
+      "category": "Banking Exams",
+      "level": "Advanced",
+      "instructor": "Yashraj Singh Chauhan",
+      "rating": 4.9,
+      "students": 80900,
+      "totalDurationHours": 240,
+      "price": 2000,
+      "thumbnail": "QC",
+      "thumbnailUrl": "https://storage.googleapis.com/cp-lower-whitelabel-assets-as-sth1-gcs/preprod/single/defzhu/e280f1f8-34db-43f3-9bb2-15804ebbfcc2.png",
+      "description": "Premium Quant master batch with live classes, recorded videos, and structured assignments for serious aspirants.",
+      "tags": ["Quant", "Live Class", "Videos"],
+      "badgeLabels": ["NEW", "LIVE CLASS", "VIDEOS"],
+      "couponEnabled": true,
+      "modules": [
+        {
+          "id": "m7",
+          "title": "Monthly Capsules",
+          "lessons": [
+            {
+              "id": "l12",
+              "title": "Banking Awareness Digest",
+              "durationMinutes": 35,
+              "type": "video",
+              "completed": false
+            },
+            {
+              "id": "l13",
+              "title": "Economic Updates + MCQ",
+              "durationMinutes": 40,
+              "type": "quiz",
+              "completed": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "offerings": [
+    {
+      "title": "Video Courses",
+      "description": "Structured premium batches, topic-wise lessons, and guided progress."
+    },
+    {
+      "title": "Test Series",
+      "description": "Exam-style practice with timing discipline and analytics."
+    },
+    {
+      "title": "Free Weekly Magazine",
+      "description": "Current affairs and revision support for consistent learners."
+    },
+    {
+      "title": "Books & E-Books",
+      "description": "Printable and downloadable materials for focused preparation."
+    }
+  ],
+  "community": {
+    "eyebrow": "We are now",
+    "headline": "150K Strong",
+    "description": "As a faculty dedicated to teaching Quantitative Aptitude and Reasoning for bank examinations, reaching the milestone of 150,000 subscribers on YouTube is truly humbling. This achievement would not have been possible without the consistent trust, support, and dedication of my students. Your belief in my teaching and your commitment to learning motivate me to continuously deliver quality content and guide you toward your goals.",
+    "description2": "I am sincerely grateful to each one of you for being a part of this journey and for making this learning community stronger every day."
+  },
+  "testimonials": [
+    {
+      "name": "Maruti Bellikoppa",
+      "result": "RRB PO, SBI JA 2025",
+      "quote": "As a proud selected RRB PO officer, my bank exam journey began really tough – quant felt overwhelming and reasoning questions were confusing. Yashraj Sir's clear guidance made everything simple! He taught easy shortcuts for quick quant solving, like handling data interpretation and simple interest super fast. Reasoning turned easy with tips on puzzles and coding-decoding. Daily fun quizzes fixed my errors, and mocks built confidence for timed pressure. Accuracy hit 90%, cleared cutoffs smoothly. Yashraj Sir, thanks for making my dream come true!"
+    },
+    {
+      "name": "Priyadarshani Dhal",
+      "result": "RRB PO 2025",
+      "quote": "2025 में मैंने SBI क्लर्क और IBPS क्लर्क की प्रतियोगी परीक्षाएं सफलतापूर्वक पास कीं। इस पूरे सफर में यशराज सर का विशेष योगदान रहा। उन्होंने विश्वास दिलाया था कि यदि हम सही दिशा में मेहनत करें और उनके बताए रास्ते पर चलें, तो मंजिल अपने आप आसान हो जाएगी। मैंने उनके कहे अनुसार पूरी मेहनत और लगन से पढ़ाई की, और नतीजा यह रहा कि दोनों ही परीक्षाओं में मेरी सफलता सुनिश्चित हो गई।"
+    },
+    {
+      "name": "Akshay",
+      "result": "SBI JA, IBPS CLK 2025 • Ex-SM",
+      "quote": "Preparing for bank exams was full of challenges and self-doubt, but your QSS (Question Selection Skill) and LUA (Language Understanding Approach) completely transformed my preparation strategy. Learning how to choose the right questions and understand language concepts deeply helped me perform with confidence. I am truly grateful to Yashraj Sir for guiding me toward my bank exam selection."
+    },
+    {
+      "name": "Mayur Suryawanshi",
+      "result": "SBI PO, IBPS PO, SBI JA, IBPS CLK 2025",
+      "quote": "As a bank exam aspirant, my journey was filled with pressure, fear, and constant self-doubt. Yashraj Sir’s guidance became the turning point in my preparation. His unique teaching methods, clear concepts, and practical strategies helped me build confidence step by step. The way he simplified complex topics and motivated us to stay consistent made all the difference."
+    },
+    {
+      "name": "Nitin Kumar",
+      "result": "SBI PO, IBPS PO 2025",
+      "quote": "Success in bank exams demands the right strategy more than just hard work, and I found that direction under Yashraj Sir’s guidance. His QSS (Question Selection Skill) helped me choose questions wisely, while LUA (Language Understanding Approach) improved my accuracy and confidence."
+    },
+    {
+      "name": "Megha",
+      "result": "IBPS PO, CLK 2025",
+      "quote": "What truly set my bank exam preparation apart was learning how to think smartly during the exam. Yashraj Sir taught me effective strategies for question selection, time management, and accuracy, which made the exam feel much more manageable."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What courses do you offer?",
+      "answer": "We offer coaching for competitive exams like SSC, IBPS, SBI, RRB, Insurance Exams, Entrance tests like CAT, MBA, XAT, CLAT, SAT, etc."
+    },
+    {
+      "question": "Do you offer both offline and online classes?",
+      "answer": "Yes, now we are offering both offline and online classes."
+    },
+    {
+      "question": "Is there a free demo class available?",
+      "answer": "Yes, we offer free demo classes for every course and batch."
+    },
+    {
+      "question": "Which subjects are offered under your coaching program?",
+      "answer": "We offer expert coaching in Quantitative Aptitude and Reasoning."
+    },
+    {
+      "question": "What are the class timings?",
+      "answer": "Class timings vary depending on the course and batch. For detailed schedule information, please contact us."
+    },
+    {
+      "question": "Do you offer interview preparation as well?",
+      "answer": "Yes, we help students with interview preparation."
+    },
+    {
+      "question": "Do you also provide doubt-clearing and guidance classes?",
+      "answer": "Yes, we conduct doubt-clearing and guidance classes at regular intervals."
+    }
+  ],
+  "about": {
+    "sectionTitle": "Our Institute",
+    "headline": "Veteran by Yashraj Singh Chauhan",
+    "specialization": "Quantitative Aptitude, Reasoning",
+    "achievements": [
+      "Cleared SBI PO, IBPS PO, RRB PO, RBI ASST., etc.",
+      "9+ years' experience"
+    ],
+    "paragraphs": [
+      "I am Yashraj Singh Chauhan, the founder of Veteran. My purpose is to provide comprehensive and high-quality content in Quantitative Aptitude specifically designed for Bank, CAT, SSC, and Insurance exam aspirants.",
+      "At Veteran, we firmly believe that conceptual clarity is the foundation of success in any competitive exam. Our unique approach focuses on understanding the core concepts deeply, enabling you to solve problems with confidence and efficiency.",
+      "This conceptual foundation is what sets us apart. Remember, learning the right concepts and honing your logical skills are the keys to achieving your goals. Once you master these, you'll realize that you do not need to rely on irrelevant or superficial material available online. Focused, concept-driven preparation is the most effective way to excel."
+    ]
+  },
+  "appPromo": {
+    "title": "Discover and access our premium collection",
+    "description": "Expertly curated courses, downloadable free PDFs, comprehensive practice tests, interactive quizzes, study materials, and additional resources across both the website and the mobile app.",
+    "ctaLabel": "Download App"
+  },
+  "querySection": {
+    "eyebrow": "Have any Queries?",
+    "headline": "Hit us up if you have questions",
+    "description": "Share your details and our team can connect you with the right course, batch, or next step for your preparation.",
+    "submitLabel": "Enquire Now"
+  },
+  "champions": [
+    {
+      "name": "Megha",
+      "result": "IBPS PO 2025 TOPPER"
+    },
+    {
+      "name": "Mayur Suryawanshi",
+      "result": "IBPS PO, SBI PO 2025 TOPPER"
+    }
+  ],
+  "freeTests": {
+    "title": "Free Tests",
+    "total": 1,
+    "description": "Take a free IBPS-style prelims mock and experience a more realistic banking exam interface on the new website.",
+    "tests": [
+      {
+        "id": "ft1",
+        "title": "IBPS PO Prelims Free Mock 01",
+        "examTag": "IBPS PO • Free Test • 100 Questions • 60 Minutes",
+        "durationMinutes": 60,
+        "totalQuestions": 100,
+        "sections": ["English", "Reasoning", "Quant"],
+        "launchPath": "/mock-test"
+      }
+    ]
+  }
+}
